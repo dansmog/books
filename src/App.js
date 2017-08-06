@@ -15,10 +15,22 @@ class App extends Component {
               <h2>Welcome to React</h2>
             </div>
           </div>
-          <BookList />
+          <div className="container">
+             <div className="row">
+                <div className="col-xs-12 col-sm-4 col-md-4" style={styles.marginTopSm}>
+                  <BookList />
+                </div>
+             </div>
+          </div>
 
       </section>
     );
+  }
+}
+
+const styles = {
+  marginTopSm: {
+    marginTop: "50px"
   }
 }
 
