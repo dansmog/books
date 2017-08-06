@@ -9,7 +9,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <section style={{"background": "#f3f3f3", "height": "100vh"}}>
+      <section style={{"background": "#f3f3f3", "padding": "0 0 50px 0"}}>
           <div className="App">
             <div className="App-header">
               <img src={logo} className="App-logo" alt="logo" />
