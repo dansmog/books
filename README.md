@@ -3,6 +3,6 @@ This is a basic react redux web app, used to learn redux, you can play with this
 `git clone` cd into the directory and run  `yarn install` or `npm install`
 then `yarn start` or `npm start` 
 
-[Here is a link to the live demo](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+[Here is a link to the live demo](https://redux-books.herokuapp.com/).
 
 
